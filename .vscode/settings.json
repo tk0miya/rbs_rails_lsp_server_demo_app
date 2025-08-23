@@ -1,0 +1,5 @@
+{
+    "rbs-helper.rbs-inline-on-save": true,
+    "rbs-helper.rbs-rails-lsp-enabled": true,
+    "rbs-helper.rbs-inline-signature-directory": "sig/prototype/"
+}
