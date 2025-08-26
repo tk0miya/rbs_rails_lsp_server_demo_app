@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/tk0miya/rbs_rails.git
-  revision: 6f8600f0d3d6efe7aa089e04705203069b4f4227
+  revision: 0e049fefd837399676e44a84b1a7d2e3644986be
   branch: cli_server
   specs:
     rbs_rails (0.12.1)
